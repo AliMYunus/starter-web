@@ -10,3 +10,9 @@ Sample website with plenty of files for demos
 Instruction how to deploy
 
 ## How to 
+
+This is a simple project
+
+
+## part1 to be completed
+Yet to be completed
